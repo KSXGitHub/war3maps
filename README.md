@@ -4,6 +4,8 @@ This is a repository of maps I created a long time ago.
 
 ## Folders
 
+Some folders have a `README.md` file that contains more detailed information and rules.
+
 ### Altered Melee
 
 Contains maps with some very powerful creeps, mercs, and items.
