@@ -37,3 +37,7 @@ Used to test units and items from [Altered Melee](#altered-melee).
 ### junks
 
 Garbage maps I created for fun with no logic what-so-ever.
+
+## License
+
+This collection is released under the term of [CC0-1.0](https://git.io/JeVdY).
