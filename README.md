@@ -6,27 +6,27 @@ This is a repository of maps I created a long time ago.
 
 Some folders have a `README.md` file that contains more detailed information and rules.
 
-### [Altered Melee](./altered-melee)
+### [Altered Melee](./Altered%20Melee)
 
 Contains maps with some very powerful creeps, mercs, and items.
 
-### [Capturing](./capturing)
+### [Capturing](./Capturing)
 
 Maps with a particular way of building: Instead of using worker to build things, players "capture" buildings by attacking.
 
-#### [1x](./capturing/1x)
+#### [1x](./Capturing/1x)
 
 Players capture "platform" and upgrade it to desired building.
 
-#### [2x](./capturing/2x)
+#### [2x](./Capturing/2x)
 
 Players capture buildings, no upgrade.
 
-### [Melee](./melee)
+### [Melee](./Melee)
 
 Maps from [Altered Melee](#altered-melee) but with unaltered object data, custom units/items are replaced with normal ones.
 
-### [Minicraft](./minicraft)
+### [Minicraft](./Minicraft)
 
 Melee games with over-simplistic builds.
 
