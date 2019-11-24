@@ -95,6 +95,10 @@ Some items give their holder magic immunity, this makes stopping them from doing
 * Don't equip with duplicate items unless it only change stats.
 * Some spellbook items also have orb ability, such as Eye of Sargeras and Tech-Tools.
 
+### Some mercenaries are benefited from Research
+
+Annihilan Warrior (level 10), Pit Lord (level 15), Fire Elemental (level 10), Firelord (level 15), Vocanal Lord (level 18), Eredar Demonlord (level 18), and Keeper of the Grove (level 18) are benefited from all research within Blacksmith, War Mill, Graveyard, and Hunter's Hall.
+
 ## Custom Items
 
 ### Advanced Orb of Lightning
