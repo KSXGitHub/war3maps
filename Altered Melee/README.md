@@ -233,7 +233,7 @@ Hero that carries this item is invisible to enemy when standing and moving, and 
 
 #### Active Ability: Monsoon
 
-Call down lightning to damage enemy units and buildings in a large area. This spell can be cast from anywhere to anywhere in the map.
+Call down lightning to damage enemy units and buildings in a large area.
 
 #### Active Ability: Cloud
 
