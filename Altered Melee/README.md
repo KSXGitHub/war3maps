@@ -73,8 +73,9 @@ Powerful creeps drop powerful items:
   * Eye of Sargeras has Blink, Earthquake and Eye Fragment.
   * Axe of Shockwave can send a shockwave that go on until map boundary.
   * Wand of the God enables user to cast Monsoon from far away.
-* Ancients Guardian's rooted form (level 18 mercenary) can attack enemy units in any place visible.
-* Level 18 Green Dragon can summon a Chimaera that can teleport to anywhere with Blink ability.
+* Mercenaries
+  * Ancients Guardian's rooted form (level 18 mercenary) can attack enemy units in any place visible.
+  * Level 18 Green Dragon can summon a Chimaera that can teleport to anywhere with Blink ability.
 
 ### Defense against powerful magic-immune heroes
 
