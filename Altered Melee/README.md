@@ -231,6 +231,10 @@ This spell takes 10s to cast.
 
 Hero that carries this item is invisible to enemy when standing and moving, and visible and attacking or casting spells.
 
+#### Active Ability: Resurrection
+
+Resurrect dead friendly units in the entire map regardless of how far away.
+
 #### Active Ability: Monsoon
 
 Call down lightning to damage enemy units and buildings in a large area.
