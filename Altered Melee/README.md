@@ -72,7 +72,6 @@ Powerful creeps drop powerful items:
 * Some items (drop by level 15 creeps) have spell that can be cast from afar:
   * Eye of Sargeras has Blink, Earthquake and Eye Fragment.
   * Axe of Shockwave can send a shockwave that go on until map boundary.
-  * Wand of the God enables user to cast Monsoon from far away.
 * Mercenaries
   * Ancients Guardian's rooted form (level 18 mercenary) can attack enemy units in any place visible.
   * Level 18 Green Dragon can summon a Chimaera that can teleport to anywhere with Blink ability.
