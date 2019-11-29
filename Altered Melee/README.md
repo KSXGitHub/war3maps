@@ -75,6 +75,7 @@ Powerful creeps drop powerful items:
 * Mercenaries
   * Ancients Guardian's rooted form (level 18 mercenary) can attack enemy units in any place visible.
   * Level 18 Green Dragon can summon a Chimaera that can teleport to anywhere with Blink ability.
+  * Lich (level 15 creep) can summon an invulnerable wyrm.
 
 ### Defense against powerful magic-immune heroes
 
