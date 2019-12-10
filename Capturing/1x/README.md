@@ -18,7 +18,7 @@ You can use your workers to mine golds and gather lumbers.
 * Every player receives 25*N gold every 15 seconds with N being number of constructed Farms, Burrows, Ziggurats, or Moon Well.
 * Every player receives 15*N lumber every 12 seconds with N being number of constructed Lumber Mills, War Mills, Graveyards, or Hunter Halls.
 
-## Do's and Dont's
+## Tips and Tricks
 
 ### Build Level 3 Town Halls as fast as possible
 
