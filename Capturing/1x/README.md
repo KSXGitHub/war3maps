@@ -24,6 +24,10 @@ Players do not use their workers to build structures (except Haunted Gold Mine),
 * If destroyed building was built from a Platform, it will be replaced by a new Platform, which can be upgraded to functional buildings.
 * If destroyed building is a neutral building (such as Tavern, Mercenary Camp, Goblin Laboratory), it will be replaced by the same building.
 
+## Superweapons
+
+When a match lasts for too long but no players show side of defeat, it is where superweapon upgrade comes in to play. Every race has 3 superweapon upgrades. To unlock them, player first need to upgrade and research all normal ones.
+
 ## Tips and Tricks
 
 ### Build Level 3 Town Halls as fast as possible
