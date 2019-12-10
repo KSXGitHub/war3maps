@@ -18,6 +18,12 @@ You can use your workers to mine golds and gather lumbers.
 * Every player receives 25*N gold every 15 seconds with N being number of constructed Farms, Burrows, Ziggurats, or Moon Well.
 * Every player receives 15*N lumber every 12 seconds with N being number of constructed Lumber Mills, War Mills, Graveyards, or Hunter Halls.
 
+## Building
+
+Players do not use their workers to build structures (except Haunted Gold Mine), instead they capture a building by attacking enemies' structure. Upon a building's destruction:
+* If destroyed building was built from a Platform, it will be replaced by a new Platform, which can be upgraded to functional buildings.
+* If destroyed building is a neutral building (such as Tavern, Mercenary Camp, Goblin Laboratory), it will be replaced by the same building.
+
 ## Tips and Tricks
 
 ### Build Level 3 Town Halls as fast as possible
