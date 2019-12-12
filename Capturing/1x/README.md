@@ -26,7 +26,7 @@ Players do not use their workers to build structures (except Haunted Gold Mine),
 
 ## Superweapons
 
-When a match lasts for too long but no players show side of defeat, it is where expensive superweapon upgrades come in to play. Every race has 3 superweapon upgrades. To unlock them, player first need to upgrade and research all normal ones.
+When a match lasts for too long but no players show side of defeat, it is where expensive superweapon upgrades come in to play. Every race has superweapon upgrades. To unlock them, player first need to upgrade and research all normal ones.
 
 ## Tips and Tricks
 
