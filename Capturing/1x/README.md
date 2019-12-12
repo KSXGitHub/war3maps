@@ -28,6 +28,34 @@ Players do not use their workers to build structures (except Haunted Gold Mine),
 
 When a match lasts for too long but no players show side of defeat, it is where expensive superweapon upgrades come in to play. Every race has superweapon upgrades. To unlock them, player first need to upgrade and research all normal ones.
 
+### Human Superweapons
+
+* Castle Bomb is available at Workshop after researching Flying Machine Bomb. This research enables Castle to shoot bullets to anywhere in map.
+* Supersonic Fighter Training is available at Lumber Mill. This research makes all units incredibly powerful.
+* Extreme Defense is available at Gryphon Aviary. This research makes human defense towers incredibly powerful.
+* Icy Treasure Box can be built from Scout Tower after all items above is researched. This structure have global auras and spells that can reach anywhere.
+
+### Orc Superweapons
+
+* Juggernaut Storm is available at War Mill. This research enables Burning Juggernaut (which can be summoned by Fortress) to blink anywhere in the map.
+* Army of Storm is available at Tauren Totem. This research makes all units incredibly powerful.
+* Extreme Defense is available at Tauren Totem. This research makes Watch Tower incredibly powerful.
+* Summoner Warlock is available to train at Fortress after all items above is researched. This unit has powerful spells and can attack from afar.
+
+### Undead Superweapons
+
+* Dragon Lord Inferno is available at Boneyard. This research enables Nether Dragon Lord (which can be summon by Black Citadel) to summon Internal Lord to anywhere in the map.
+* Deathless Darkness is available at Slaughterhouse. This research makes defense tower incredibly powerful.
+* Deathlord Revenant Summoner, Dark Portal is available at Boneyard. This research enables Nether Dragon Lord to summon Deathlord Revenant and Black Citadel to summon Portal anywhere.
+* Deathlord Shrine can be built from Platform after all items above is researched. This structure have global Unholy Aura, True Sight which reveal invisible enemy units everywhere, and can summon an incredibly powerful Pit Lord.
+
+### Night Elf superweapons
+
+* Tree of Eternity Destroyer Training is available at Chimaera Roost. This research enables Tree of Eternity to damage all enemy units in the map with Starfall.
+* Eyes of Stars, Chaos Ward Destroyer Training is available at Hunter's Hall. This research enables Hunter's Hall to reveal entire map, it also makes wards summoned by Ancient of Wonders incredibly powerful.
+* Resurrection, Chaos Ward Destroyer Training is available at Chimaera Roost. This research enables Altar of Elders to resurrect all dead allied units, it also makes wards summoned by Ancient of Wonders incredibly powerful.
+* Ancient Wizard is available to train at Chimaera Roost after all items above is researched. This unit has powerful spells, can summon powerful units, and can attack from afar.
+
 ## Tips and Tricks
 
 ### Build Level 3 Town Halls as fast as possible
