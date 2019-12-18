@@ -2,6 +2,8 @@
 
 Unlike traditional melee maps where players use workers to build structures, in Capturing, players will instead capture them by attacking.
 
+I also made some overpowered features because I thought it was cool.
+
 ## Defeat Condition
 
 * Player is defeated when all their Town Halls are destroyed.
